@@ -1,13 +1,14 @@
 ########################## hero area ##########################
 hero:
-  title : "I'm Somrat Sorkar"
+  title : "I'm Accelerate Go"
 
   # animated text loop
   occupations:
-    - "Web Developer"
-    - "Graphic Designer"
-    - "Database Manager"
-
+    - "BlockChain"
+    - "Artificial Intelligence"
+    - "Security and SaaS"
+    - "Internet of Things"
+    - "Cloud Native"
   # slider background image loop
   slider_image:
     - "images/slider/slider-1.jpg"
@@ -17,7 +18,7 @@ hero:
   # button
   button:
     enable : true
-    label : "HIRE ME"
+    label : "Start Now"
     link : "#contact"
 
 
