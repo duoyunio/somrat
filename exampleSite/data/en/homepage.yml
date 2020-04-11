@@ -50,38 +50,28 @@ experience:
   experience_list:
     # experience item loop
     - name : "Blockchain Accelerator"
-      company : "Fiverr.com"
-      duration : "2016-2018"
+#      company : "Fiverr.com"
+#      duration : "2016-2018"
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
       
     # experience item loop
     - name : "Artificial Intelligence Accelerator"
-      company : "Fiverr.com"
-      duration : "2015-2018"
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
       
     # experience item loop
     - name : "Security Lab"
-      company : "Polytechnic"
-      duration : "2014-2018"
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
       
     # experience item loop
     - name : "Software as a Service Accelerator"
-      company : "Polytechnic"
-      duration : "2014-2018"
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
       
     # experience item loop
     - name : "Internet of Things Accelerator"
-      company : "Polytechnic"
-      duration : "2014-2018"
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
       
     # experience item loop
     - name : "Cloud Native Accelerator"
-      company : "Polytechnic"
-      duration : "2014-2018"
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 ############################### Skill #################################
 skill:
