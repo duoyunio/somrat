@@ -26,8 +26,8 @@ hero:
 fullscreen_nav:
   enable : true
   bg_image : "images/backgrounds/full-nav-bg.jpg"
-  first_name : "MacGyver"
-  last_name : "SOMRAT"
+  first_name : "GO"
+  last_name : "ACCELERATE"
   
 
 ########################### About ##################################
@@ -42,37 +42,54 @@ about:
     label : "DOWNLOAD MY CV"
     link : "#" # you can put your cv in static folder and give the path here.
 
-###########################3 Experience ##############################
+###########################6 Experience ##############################
 experience:
   enable : true
-  title : "EXPERIENCE"
+  title : "Accelerator For You"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
+    - name : "Blockchain Accelerator"
       company : "Fiverr.com"
       duration : "2016-2018"
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
       
     # experience item loop
-    - name : "Graphic Designer"
+    - name : "Artificial Intelligence Accelerator"
       company : "Fiverr.com"
       duration : "2015-2018"
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
       
     # experience item loop
-    - name : "Database Manager"
+    - name : "Security Accelerator"
       company : "Polytechnic"
       duration : "2014-2018"
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
-
+    # experience item loop
+    - name : "Software as a Service Accelerator"
+      company : "Polytechnic"
+      duration : "2014-2018"
+      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+	  
+    # experience item loop
+    - name : "Internet of Things Accelerator"
+      company : "Polytechnic"
+      duration : "2014-2018"
+      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+	  
+    # experience item loop
+    - name : "Cloud Native Accelerator"
+      company : "Polytechnic"
+      duration : "2014-2018"
+      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+	  
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "Acceleration Speed"
   skill_list:
     # skill item loop
-    - name : "Web Development"
+    - name : "Blockchain Accelerator"
       parcentage : "98%"
       
     # skill item loop
@@ -86,6 +103,14 @@ skill:
     # skill item loop
     - name : "Wordpress"
       parcentage : "70%"
+	  
+    # skill item loop	  
+    - name : "Wordpress"
+      parcentage : "100%"
+	  
+    # skill item loop	  
+    - name : "Wordpress"
+      parcentage : "80%"
 
 
 ################################### Service ##############################3
@@ -94,27 +119,27 @@ service:
   title : "SERVICES"
   service_list:
     # service item loop
-    - name : "Web Development"
+    - name : "Blockchain Accelerator"
       image : "images/icons/web-development.png"
       
     # service item loop
-    - name : "Graphic Design"
+    - name : "Artificial Intelligence Accelerator"
       image : "images/icons/graphic-design.png"
       
     # service item loop
-    - name : "Database Management"
+    - name : "Security Accelerator"
       image : "images/icons/dbms.png"
       
     # service item loop
-    - name : "Software Development"
+    - name : "Software as a Service Accelerator"
       image : "images/icons/software-development.png"
       
     # service item loop
-    - name : "Digital Marketing"
+    - name : "Internet of Things Accelerator"
       image : "images/icons/marketing.png"
       
     # service item loop
-    - name : "Mobile App Development"
+    - name : "Cloud Native Accelerator"
       image : "images/icons/mobile-app.png"
 
 
@@ -122,7 +147,7 @@ service:
 call_to_action:
   enable : true
   bg_image : "images/backgrounds/need-service.jpg"
-  title : "NEED A SERVICE?"
+  title : "NEED ACCELERATE?"
   button:
     enable : true
     label : "SAY HELLO!"
@@ -280,4 +305,4 @@ funfacts:
 ############################## contact ###########################
 contact:
   enable : true
-  title : "SAY HELLO!"
+  title : "Start Accelerate"
