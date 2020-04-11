@@ -110,8 +110,6 @@ skill:
     # skill item loop	  
     - name : "Wordpress"
       parcentage : "80%"
-
-
 ################################### Service ##############################3
 service:
   enable : true
@@ -140,7 +138,6 @@ service:
     # service item loop
     - name : "Cloud Native Accelerator"
       image : "images/icons/mobile-app.png"
-
 ############################## call to action #########################
 call_to_action:
   enable : true
