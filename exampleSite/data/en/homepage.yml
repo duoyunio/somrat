@@ -82,7 +82,6 @@ experience:
       company : "Polytechnic"
       duration : "2014-2018"
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
-	  
 ############################### Skill #################################
 skill:
   enable : true
@@ -141,7 +140,6 @@ service:
     # service item loop
     - name : "Cloud Native Accelerator"
       image : "images/icons/mobile-app.png"
-
 
 ############################## call to action #########################
 call_to_action:
